@@ -1,0 +1,9 @@
+zsh/.zsh/plugins/*
+!zsh/.zsh/plugins/.gitkeep
+
+zsh/.zsh/cache/
+*.zcompdump*
+.DS_Store
+
+*.local
+.zsh-local.sh
