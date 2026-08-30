@@ -6,4 +6,16 @@ zsh/.zsh/cache/
 .DS_Store
 
 *.local
-.zsh-local.sh
+.zsh-local.s
+
+
+# vim
+vim/.vim/plugged/
+vim/.vim/pack/*/start/*
+vim/.vim/autoload/plug.vim
+vim/.vim/swap/
+vim/.vim/undo/
+vim/.vim/backup/
+vim/.vim/.netrwhist
+*.swp
+*.swoh

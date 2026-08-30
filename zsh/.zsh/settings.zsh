@@ -1,3 +1,5 @@
+bindkey -v
+export KEYTIMEOUT=1   
 # Initialize completion
 autoload -Uz compinit && compinit -i
 zstyle ':completion:*' menu select=4
