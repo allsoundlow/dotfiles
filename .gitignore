@@ -6,7 +6,7 @@ zsh/.zsh/cache/
 .DS_Store
 
 *.local
-.zsh-local.s
+.zsh-local.sh
 
 
 # vim
